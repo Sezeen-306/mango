@@ -6,10 +6,11 @@ public class Arraylist {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+         //my try ignore
 
 		ArrayList ar= new ArrayList();
 		ar.add(10);
-		ar.add("abc");
+		ar.add("sayeed");
 		ar.add(30.55);
 		ar.add(true);
 		
